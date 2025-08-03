@@ -1,0 +1,105 @@
+- <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PERMITTER'S | Solar Permitting Experts</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f8f9fa;
+      color: #333;
+    }
+    header {
+      background: #007bff;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin-bottom: 10px;
+    }
+    .section {
+      padding: 30px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .section h2 {
+      color: #007bff;
+      margin-bottom: 15px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      background: #343a40;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    .cta-button {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 10px 20px;
+      background-color: #28a745;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>PERMITTER'S</h1>
+    <p>Fast, Reliable, and Cost-Effective Solar Permitting Services Across the U.S.</p>
+    <a class="cta-button" href="#contact">Get Started</a>
+  </header>
+
+  <section class="section">
+    <h2>What We Offer</h2>
+    <ul>
+      <li>Permit-ready plansets for ground mount, roof mount, and ballast systems</li>
+      <li>Battery and non-battery solar projects</li>
+      <li>Coverage for AHJ and utility requirements in almost every state</li>
+      <li>Support for SolarAPP forms</li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <h2>Our Process</h2>
+    <ol>
+      <li>Review layout and scope of work</li>
+      <li>Identify interconnections, structural, and roofing issues</li>
+      <li>Tailor planset to confirmed design summary</li>
+      <li>Deliver ready-to-submit, code-compliant plans</li>
+    </ol>
+  </section>
+
+  <section class="section">
+    <h2>Tools We Use</h2>
+    <p>Aurora, SolarGraph, BrightPath, Scaniverse, Roofer</p>
+  </section>
+
+  <section class="section">
+    <h2>Why Choose Us?</h2>
+    <ul>
+      <li>High-quality service at lower cost</li>
+      <li>Faster turnaround time (TAT)</li>
+      <li>Experienced and dedicated team</li>
+      <li>Reduced installation issues</li>
+    </ul>
+  </section>
+
+  <section class="section" id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:info@permitters.com">info@permitters.com</a></p>
+    <p>Phone: 8810447563, 8291183832</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 PERMITTER'S. All rights reserved.</p>
+  </footer>
+</body>
+</html>
